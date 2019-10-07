@@ -1,0 +1,11 @@
+#ifndef SOLDIER_MANAGER_H
+#define SOLDIER_MANAGER_H
+
+
+class Soldier_manager
+{
+public:
+    Soldier_manager();
+};
+
+#endif // SOLDIER_MANAGER_H

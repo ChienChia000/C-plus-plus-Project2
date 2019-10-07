@@ -1,0 +1,15 @@
+#include "soldier_manager.h"
+
+
+
+Soldier_manager::Soldier_manager()
+{
+    //create the player_littlecat icon
+
+
+    //set position
+//    setPos(640,0);
+
+    //draw the player_littlecat icon
+//    setPixmap(QPixmap(":/picture/icon_littlecat_base.png"));
+}

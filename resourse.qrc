@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/battlefield.png</file>
+        <file>picture/end_scene.png</file>
+        <file>picture/icon_dragoncat_base.png</file>
+        <file>picture/icon_giantcat_base.png</file>
+        <file>picture/icon_littlecat_base.png</file>
+        <file>picture/icon_wallcat_base.png</file>
+        <file>picture/icon.jpg</file>
+        <file>picture/minon_enemy_dragoncat.png</file>
+        <file>picture/minon_enemy_giantcat.png</file>
+        <file>picture/minon_enemy_littlecat.png</file>
+        <file>picture/minon_enemy_wallcat.png</file>
+        <file>picture/minon_player_dragoncat.png</file>
+        <file>picture/minon_player_giantcat.png</file>
+        <file>picture/minon_player_littlecat.png</file>
+        <file>picture/minon_player_wallcat.png</file>
+        <file>picture/start_button.png</file>
+        <file>picture/startscene.png</file>
+        <file>picture/tower_enemy_lose.png</file>
+        <file>picture/tower_enemy.png</file>
+        <file>picture/tower_player_lose.png</file>
+        <file>picture/tower_player.png</file>
+        <file>music/scene_battle.mp3</file>
+        <file>music/scene_result.mp3</file>
+        <file>music/scene_start.mp3</file>
+    </qresource>
+</RCC>
