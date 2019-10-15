@@ -1,5 +1,6 @@
 # C-plus-plus-Project2
 C++ class project - battle cat clone
+
 本專案為手機遊戲貓咪大戰爭改編而成，僅為學術作業用途
 
 ## 執行環境
